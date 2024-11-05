@@ -1,0 +1,10 @@
+# Main menu
+game_name = 2D trash destroyer 
+link_to_discord_server = join our Discord server!
+
+# Multiplayer 
+join_button = join 
+close_button = close
+create_lobby = create lobby
+
+# In game
