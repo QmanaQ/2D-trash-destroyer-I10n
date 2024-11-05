@@ -7,9 +7,9 @@ the left part of the text is the key for translation, the second part of the tex
 Example: trash_destroyed_score = сміття знищенно: 
 
 # what should I not translate?
-what is in parentheses. 
+what has "<text>". 
 
-Example:(hi)
+Example:<hi>
 
 # why file have "#"?
 
