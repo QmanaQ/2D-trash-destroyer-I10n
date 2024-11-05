@@ -1,10 +1,18 @@
 # Main menu
+
 game_name = 2D trash destroyer 
 link_to_discord_server = join our Discord server!
 
 # Multiplayer 
+
 join_button = join 
 close_button = close
 create_lobby = create lobby
 
-# In game
+# In game variables text
+
+hp = HP
+trash_taked = trash taked
+batteries = batteries
+trash_on_map = trash on map
+trash_destroyed = trash destroyed (score)
