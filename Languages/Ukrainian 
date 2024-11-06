@@ -1,0 +1,18 @@
+# Main menu
+
+game_name = 2D знищювач сміття 
+link_to_discord_server = приєднатися до нашого серверу діскорд
+
+# Multiplayer 
+
+join_button = приєднатися 
+close_button = закрити
+create_lobby = створити кімнату
+
+# In game variables text
+
+hp = здоров'я
+trash_taked = сміття взято
+batteries = батарейки
+trash_on_map = сміття на карті
+trash_destroyed = знищеного сміття (очків)
